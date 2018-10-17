@@ -14,7 +14,7 @@
 [codecov-image]: https://img.shields.io/codecov/c/github/weihongyu12/egg-esapi.svg?style=flat-square
 [codecov-url]: https://codecov.io/github/weihongyu12/egg-esapi?branch=master
 [david-image]: https://img.shields.io/david/weihongyu12/egg-esapi.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/egg-esapi
+[david-url]: https://david-dm.org/weihongyu12/egg-esapi
 [snyk-image]: https://snyk.io/test/npm/egg-esapi/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/egg-esapi
 [download-image]: https://img.shields.io/npm/dm/egg-esapi.svg?style=flat-square
