@@ -20,6 +20,17 @@ describe('test/esapi.test.js', () => {
     assert(app.esapi.encodeForBase64);
   });
 
+  it('should have ctx.esapi', () => {
+    const ctx = app.mockContext();
+    assert(ctx.esapi);
+    assert(ctx.esapi.encodeForHTML);
+    assert(ctx.esapi.encodeForCSS);
+    assert(ctx.esapi.encodeForJavaScript);
+    assert(ctx.esapi.encodeForURL);
+    assert(ctx.esapi.encodeForHTMLAttribute);
+    assert(ctx.esapi.encodeForBase64);
+  });
+
   it('encodeForHTML', () => {
     const esapi = app.esapi;
     const encoder = esapi.encodeForHTML('< > " \' / &');

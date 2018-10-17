@@ -47,6 +47,14 @@ this.app.esapi.encodeForJavaScript(JavaScript);
 this.app.esapi.encodeForURL(URL);
 this.app.esapi.encodeForHTMLAttribute(HTMLAttribute);
 this.app.esapi.encodeForBase64(Base64);
+
+// 或 在context中使用
+this.ctx.esapi.encodeForHTML(HTML);
+this.ctx.esapi.encodeForCSS(CSS);
+this.ctx.esapi.encodeForJavaScript(JavaScript);
+this.ctx.esapi.encodeForURL(URL);
+this.ctx.esapi.encodeForHTMLAttribute(HTMLAttribute);
+this.ctx.esapi.encodeForBase64(Base64);
 ```
 
 ## 提问交流
