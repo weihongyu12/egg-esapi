@@ -1,6 +1,6 @@
 {
   "name": "egg-esapi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An ESAPI(Enterprise Security API) plugin for egg.js",
   "eggPlugin": {
     "name": "esapi"
@@ -54,7 +54,7 @@
   "bugs": {
     "url": "https://github.com/weihongyu12/egg-esapi/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-esapi#readme",
+  "homepage": "https://github.com/weihongyu12/egg-esapi#readme",
   "author": "weihongyu12<weihongyu12@outlook.com>",
   "license": "MIT"
 }
