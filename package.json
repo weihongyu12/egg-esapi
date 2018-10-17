@@ -48,10 +48,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-esapi.git"
+    "url": "git+https://github.com/weihongyu12/egg-esapi.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/weihongyu12/egg-esapi/issues"
   },
   "homepage": "https://github.com/eggjs/egg-esapi#readme",
   "author": "weihongyu12<weihongyu12@outlook.com>",
