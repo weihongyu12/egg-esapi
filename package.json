@@ -9,7 +9,8 @@
     "egg",
     "eggPlugin",
     "egg-plugin",
-    "ESAPI"
+    "ESAPI",
+    "xss"
   ],
   "dependencies": {
     "node-esapi": "^0.0.1"
@@ -53,6 +54,6 @@
     "url": "https://github.com/eggjs/egg/issues"
   },
   "homepage": "https://github.com/eggjs/egg-esapi#readme",
-  "author": "weihongyu12",
+  "author": "weihongyu12<weihongyu12@outlook.com>",
   "license": "MIT"
 }

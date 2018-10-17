@@ -43,7 +43,7 @@ exports.esapi = {
 ```javascript
 this.app.esapi.encodeForHTML(HTML);
 this.app.esapi.encodeForCSS(CSS);
-this.app.esapi.encodeForJS(JS);
+this.app.esapi.encodeForJavaScript(JavaScript);
 this.app.esapi.encodeForURL(URL);
 this.app.esapi.encodeForHTMLAttribute(HTMLAttribute);
 this.app.esapi.encodeForBase64(Base64);
