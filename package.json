@@ -1,6 +1,6 @@
 {
   "name": "egg-esapi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An ESAPI(Enterprise Security API) plugin for egg.js",
   "eggPlugin": {
     "name": "esapi"
