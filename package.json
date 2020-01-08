@@ -45,7 +45,7 @@
     "app"
   ],
   "ci": {
-    "version": "8, 10"
+    "version": "8, 10, 12"
   },
   "repository": {
     "type": "git",
